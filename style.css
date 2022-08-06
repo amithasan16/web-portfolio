@@ -16,6 +16,8 @@ font-size: 50px;
 }
 section{
     display: flex;
+    margin-bottom: 250px;
+
 }
 .lol{
     width: 50%;
