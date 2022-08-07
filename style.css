@@ -14,7 +14,7 @@ font-size: 50px;
 .rd{
     color: rgb(0, 55, 100);
 }
-section{
+.flexible-area{
     display: flex;
     margin-bottom: 250px;
 
@@ -26,6 +26,7 @@ section{
 .lol image{
     width: 30%;
     size: 20px;
+    padding-left: 30px;
 }
 .kk{
     text-decoration: none;
@@ -46,4 +47,44 @@ section{
     background-position: bottom 10px;
  background-repeat: no-repeat;
  background-size: 10%;
+}
+.ll{
+    width: 50%;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url(css/Screenshot\ \(85\).png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 20px;
+    margin: 0;
+}
+.nn{
+    width: 100%;
+    padding: 30px 20px; 
+}
+.mm{
+    font:700;
+    color: rgb(37, 100, 83);
+}
+.exp{
+    width: 200%;
+    display: flex;
+    margin-left: 250px;
+    box-shadow: 20px 20px 10px 20px rgb(74, 93, 36);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    border-radius: 10px;
+}
+#skill{
+    border-right: 20px orange;
+}
+#experience{
+    border-left: 20px blue;
+}
+footer p{
+    text-align: center;
+    color: rgb(20, 130, 220);
 }
